@@ -1,11 +1,11 @@
 # Site settings
 author: Eric Sundstrom
-title: 
+title: Data Science Journey
 header-img: img/home-bg.png
 email: swede0623@gmail.com
 copyright_name: Eric Sundstrom
 description: > # this means to ignore newlines until "baseurl:"
-  
+  FlatIron
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  swede0623
